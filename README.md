@@ -5,13 +5,14 @@ I have been participating in Epic Games free game(s) of the week for a while and
 ## My database:
 Originally I was going to make this a built-in table but that's a lot of data entries to scroll through so click [https://docs.google.com/spreadsheets/d/1Hd_g4gBuLnPd0XTHKqzxR6uDiwRBJtWNqJt03RNlG48/edit?usp=sharing] to view it all. If there's any data you'd like me to add, comment below!
 ## Results for genres from Epic:
+![alt text](https://github.com/misscintech/What-Free-Game-Is-Coming-From-Epic-Games-/blob/main/num%20per%20genre.png)<br>
 According to the data, we're probably getting a platformer or adventure game from Epic. Many of the games on this list were labeled as other genres and action or adventure. Seriously, can we as devs give better descriptions of our babies besides action, adventure, or both? When it says adventure, I've noticed it's just another word for having a plot. So technically the walking simulators are adventure games. 🤣 <br>
 ## Other Interesting Data To Note:
 ### How old is the game I'm getting?
-
+![alt text](https://github.com/misscintech/What-Free-Game-Is-Coming-From-Epic-Games-/blob/main/num%20games%20by%20release%20year.png)<br>
 Historically, it looks like the free game of the week from Epic is from either 2018 or 2019. The interesting news is you are probably going to get something more recent not retro but what do I know? My idea of retro gaming is the arcade era and as far as I know Epic hasn't given us anything that far back. 😉 <br>
 ### Epic I'm surprised at you...
-
+![alt text](https://github.com/misscintech/What-Free-Game-Is-Coming-From-Epic-Games-/blob/main/countengine.png)<br>
 I'll be honest, when I was going through the games I've received from Epic I thought most of them would be made with some version of Unreal since Epic made it. Weirdly enough, that's not the case. However, I have a small caveat when it comes to my "custom" game engine label. For some of these entries, I couldn't find what engine they used so I labeled it as a custom engine because a lot of bigger companies often use their own custom-built engines. I tried to reach out to the respective devs on Twitter and I'll be updating as I get replies. (Thank you to every dev who has replied, you are the real homies😊).<br>
 ## Final Thoughts:
 I don't work for Epic Games so I don't know precisely how they decide what games they give away for free. If I had to guess, they give away lots of platformers or adventure games because they are genres that anyone can pick up and enjoy. They probably choose slightly older games because licensing may be easier. There are probably more indie games than AAA titles because indie devs might be easier to work with because it's a small team of people. Not sure, maybe they choose games based on their values that aren't posted on their website. I know some of the games I have received I probably would not have played if not for Epic, so thank you. 😊
